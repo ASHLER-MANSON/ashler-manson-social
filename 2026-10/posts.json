@@ -1,0 +1,55 @@
+[
+ {
+  "slug": "01_le-chiffre",
+  "rubrique": "chiffre",
+  "date": "2026-10-07T09:15:00",
+  "metricool_id": 390070293,
+  "visuel": {
+   "grand": "1 sur 2",
+   "phrase": "crédits immobiliers est aujourd’hui accordé sur 25&nbsp;ans ou plus.",
+   "source": "49,3&nbsp;% des prêts accordés en août 2026.<br>Source&nbsp;: Observatoire Crédit Logement / CSA."
+  },
+  "legende": "Près d'un crédit immobilier sur deux est désormais accordé sur 25 ans ou plus : 49,3 % des prêts en août, contre 46,8 % en moyenne l'an dernier.\n\nAllonger la durée, c'est le levier que les banques actionnent pour que les projets passent malgré la remontée des taux. Encore faut-il savoir ce que ces années supplémentaires coûtent vraiment.\n\nSource : Observatoire Crédit Logement / CSA, tableau de bord d'août 2026.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #courtier #bordeaux #immobilier",
+  "alt": "1 sur 2 crédits immobiliers est aujourd'hui accordé sur 25 ans ou plus. 49,3 % des prêts accordés en août 2026. Source : Observatoire Crédit Logement / CSA.",
+  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/09/TDB_L_Observatoire_Credit_Logement_CSA_aout2026.pdf"
+ },
+ {
+  "slug": "02_le-mot-juste",
+  "rubrique": "mot",
+  "date": "2026-10-15T12:30:00",
+  "metricool_id": 390070443,
+  "visuel": {
+   "mot": "TAEG",
+   "definition": "nom masculin. Taux annuel effectif global.",
+   "texte": "Le vrai prix d’un crédit. Il réunit les intérêts, l’assurance emprunteur exigée, les frais de dossier et de garantie. C’est lui qu’on compare d’une offre à l’autre, pas le seul taux nominal."
+  },
+  "legende": "TAEG. Quatre lettres qu'on survole souvent dans une offre de prêt, et pourtant les plus utiles.\n\nLe taux nominal dit ce que coûte l'argent. Le TAEG dit ce que coûte le crédit : intérêts, assurance exigée, frais de dossier, garantie. Deux offres au même taux peuvent avoir deux TAEG très différents.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #TAEG #courtier #bordeaux",
+  "alt": "TAEG, nom masculin. Taux annuel effectif global. Le vrai prix d'un crédit."
+ },
+ {
+  "slug": "03_l-idee-recue",
+  "rubrique": "idee",
+  "date": "2026-10-22T12:30:00",
+  "metricool_id": 390070493,
+  "visuel": {
+   "citation": "Mon assurance de prêt, je la garde jusqu’au bout.",
+   "verdict": "Faux.",
+   "texte": "Depuis la loi Lemoine de 2022, vous pouvez changer d’assurance emprunteur à tout moment, sans frais ni pénalité, à garanties équivalentes."
+  },
+  "legende": "On choisit souvent son assurance de prêt le jour de la signature, puis on n'y pense plus pendant vingt ans.\n\nDepuis la loi Lemoine, l'assurance emprunteur se change à tout moment, sans frais ni pénalité, dès lors que le nouveau contrat offre des garanties équivalentes. Sur la durée d'un prêt, l'écart peut se chiffrer en milliers d'euros.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#assuranceemprunteur #loilemoine #creditimmobilier #bordeaux",
+  "alt": "Idée reçue barrée : « Mon assurance de prêt, je la garde jusqu'au bout. » Faux. Loi Lemoine."
+ },
+ {
+  "slug": "04_bordeaux-cote-pierre",
+  "rubrique": "pierre",
+  "date": "2026-10-29T12:30:00",
+  "metricool_id": 390070535,
+  "visuel": {
+   "titre": "Port de la Lune",
+   "texte": "Le méandre de la Garonne dessine un croissant&nbsp;: c’est lui qui a donné son surnom à Bordeaux. Le port de la Lune est inscrit au patrimoine mondial de l’UNESCO depuis&nbsp;2007.",
+   "svg": "<svg width=\"880\" height=\"400\" viewBox=\"0 0 880 430\"><path d=\"M60 40 C 60 330, 820 330, 820 40\" fill=\"none\" stroke=\"#16233B\" stroke-width=\"3\"/><path d=\"M120 40 C 130 270, 750 270, 760 40\" fill=\"none\" stroke=\"#A8875A\" stroke-width=\"1.5\" opacity=\".45\"/></svg>"
+  },
+  "legende": "Vu du ciel, la Garonne trace un croissant parfait au pied des quais. C'est ce méandre qui vaut à Bordeaux son surnom de port de la Lune, inscrit au patrimoine mondial de l'UNESCO depuis 2007.\n\nNotre maison est née ici en 2003. Elle n'est jamais vraiment partie.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#bordeaux #portdelalune #patrimoine #garonne",
+  "alt": "Port de la Lune : le méandre de la Garonne en croissant, surnom de Bordeaux, UNESCO depuis 2007."
+ }
+]
