@@ -56,10 +56,10 @@ def mot(p):       # fond pierre. champs : mot, definition (ligne italique), text
 <div style="margin-top:40px;font-family:Corm;font-style:italic;font-size:46px;color:{ARDOISE}">{p['definition']}</div>
 <div class=body style="margin-top:56px;font-size:50px;max-width:850px">{p['texte']}</div>""")
 
-def idee(p):      # fond marine. champs : citation (idée reçue, barrée), verdict ("Faux."/"Vrai, mais…"), texte
+def idee(p):      # fond marine. champs : citation (idée reçue, barrée), verdict ("Faux."/"Pas toujours."), texte ; taille (px du verdict, défaut 210, ~140 pour un verdict long : il doit tenir sur UNE ligne)
     return page(MARINE, PIERRE, 'L’idée reçue', f"""
 <div style="margin-top:120px;font-family:Corm;font-style:italic;font-size:64px;line-height:1.3;max-width:840px;opacity:.8;text-decoration:line-through;text-decoration-color:{LAITON};text-decoration-thickness:3px">« {p['citation']} »</div>
-<div style="margin-top:80px;font-family:Corm;font-weight:300;font-size:210px;line-height:.9">{p['verdict']}</div>
+<div style="margin-top:80px;font-family:Corm;font-weight:300;font-size:{p.get('taille',210)}px;line-height:.9">{p['verdict']}</div>
 <div class=body style="margin-top:46px">{p['texte']}</div>""")
 
 def pierre(p):    # fond pierre. champs : titre, texte, svg (optionnel : dessin au trait marine/laiton, viewBox 0 0 880 430)
