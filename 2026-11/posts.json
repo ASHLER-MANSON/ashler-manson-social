@@ -8,9 +8,10 @@
    "phrase": "de revenus&nbsp;: c’est ce que coûte en moyenne un achat immobilier financé à&nbsp;crédit.",
    "source": "Contre 4,8&nbsp;ans début 2022. Chiffre d’août 2026.<br>Source&nbsp;: Observatoire Crédit Logement / CSA."
   },
-  "legende": "Acheter un logement à crédit représente aujourd'hui en moyenne 4,2 années de revenus du ménage, contre 4,8 années début 2022.\n\nLes prix ont continué de monter, mais moins vite que pendant les années de taux bas : l'effort demandé reste sensiblement inférieur à celui d'il y a quatre ans. Un repère utile pour mesurer son projet.\n\nSource : Observatoire Crédit Logement / CSA, tableau de bord d'août 2026 (coût relatif des opérations).\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #immobilier #courtier #bordeaux",
+  "legende": "Acheter un logement à crédit représente aujourd'hui en moyenne 4,2 années de revenus du ménage, contre 4,8 années début 2022.\n\nLe coût des logements progresse encore plus vite que les revenus, mais l'effort demandé reste nettement inférieur à celui de 2022. Un repère utile pour mesurer son projet.\n\nSource : Observatoire Crédit Logement / CSA, tableau de bord d'août 2026 (coût relatif des opérations).\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #immobilier #courtier #bordeaux",
   "alt": "4,2 ans de revenus : c'est ce que coûte en moyenne un achat immobilier financé à crédit. Contre 4,8 ans début 2022. Chiffre d'août 2026. Source : Observatoire Crédit Logement / CSA.",
-  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/09/TDB_L_Observatoire_Credit_Logement_CSA_aout2026.pdf"
+  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/09/TDB_L_Observatoire_Credit_Logement_CSA_aout2026.pdf",
+  "metricool_id": 404446560
  },
  {
   "slug": "02_le-mot-juste",
@@ -24,7 +25,8 @@
   },
   "legende": "Quotité. Un mot discret dans une offre de prêt, qui change pourtant tout le jour où l'assurance doit jouer.\n\nC'est la part du capital couverte pour chaque emprunteur. Un couple peut se répartir la couverture (50 % / 50 %, 70 % / 30 %) ou s'assurer chacun à 100 %. Plus la quotité est élevée, plus la protection est forte, et plus l'assurance coûte : un arbitrage à faire selon les revenus de chacun.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#assuranceemprunteur #creditimmobilier #courtier #bordeaux",
   "alt": "Quotité, nom féminin : part du prêt couverte par l'assurance. Elle se fixe pour chaque emprunteur ; à deux, on peut s'assurer à 50 % chacun ou à 100 % chacun.",
-  "source_url": ""
+  "source_url": "",
+  "metricool_id": 404446578
  },
  {
   "slug": "03_l-idee-recue",
@@ -38,7 +40,8 @@
   },
   "legende": "Le seuil de 35 % d'endettement est devenu une règle d'or. C'est bien la norme, mais elle n'est pas absolue.\n\nLe Haut Conseil de stabilité financière autorise les banques à y déroger pour 20 % de leur production trimestrielle, en priorité pour l'achat d'une résidence principale et les primo-accédants. Au premier trimestre 2026, elles ont utilisé 17,5 % de cette marge. Reste à présenter un dossier qui justifie l'exception : reste à vivre, apport, stabilité des revenus.\n\nSources : HCSF, décision D-HCSF-2021-7 et communiqué du 9 juin 2026.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #HCSF #courtier #bordeaux",
   "alt": "Idée reçue barrée : « Au-delà de 35 % d'endettement, aucune banque ne prête. » Pas toujours. La norme du HCSF fixe 35 % et 25 ans, mais laisse aux banques une marge de 20 % de leurs crédits.",
-  "source_url": "https://www.economie.gouv.fr/files/files/directions_services/hcsf/HCSF%20-%20Communiqu%C3%A9%20de%20presse%20du%20mardi%209%20juin%202026.pdf"
+  "source_url": "https://www.economie.gouv.fr/files/files/directions_services/hcsf/HCSF%20-%20Communiqu%C3%A9%20de%20presse%20du%20mardi%209%20juin%202026.pdf",
+  "metricool_id": 404446588
  },
  {
   "slug": "04_bordeaux-cote-pierre",
@@ -49,8 +52,9 @@
    "svg": "<svg width=\"880\" height=\"400\" viewBox=\"0 0 880 430\"><path d=\"M30 150 L850 150\" stroke=\"#16233B\" stroke-width=\"3\" fill=\"none\"/><path d=\"M30 172 L850 172\" stroke=\"#16233B\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M36.0 330 L36.0 250 Q54.1 120.0 72.2 250 L72.2 330 M84.2 330 L84.2 250 Q102.4 120.0 120.5 250 L120.5 330 M132.5 330 L132.5 250 Q150.6 120.0 168.7 250 L168.7 330 M180.7 330 L180.7 250 Q198.8 120.0 216.9 250 L216.9 330 M228.9 330 L228.9 250 Q247.1 120.0 265.2 250 L265.2 330 M277.2 330 L277.2 250 Q295.3 120.0 313.4 250 L313.4 330 M325.4 330 L325.4 250 Q343.5 120.0 361.6 250 L361.6 330 M373.6 330 L373.6 250 Q391.8 120.0 409.9 250 L409.9 330 M421.9 330 L421.9 250 Q440.0 120.0 458.1 250 L458.1 330 M470.1 330 L470.1 250 Q488.2 120.0 506.4 250 L506.4 330 M518.4 330 L518.4 250 Q536.5 120.0 554.6 250 L554.6 330 M566.6 330 L566.6 250 Q584.7 120.0 602.8 250 L602.8 330 M614.8 330 L614.8 250 Q632.9 120.0 651.1 250 L651.1 330 M663.1 330 L663.1 250 Q681.2 120.0 699.3 250 L699.3 330 M711.3 330 L711.3 250 Q729.4 120.0 747.5 250 L747.5 330 M759.5 330 L759.5 250 Q777.6 120.0 795.8 250 L795.8 330 M807.8 330 L807.8 250 Q825.9 120.0 844.0 250 L844.0 330\" stroke=\"#16233B\" stroke-width=\"2\" fill=\"none\"/><path d=\"M0 360 C 120 350, 220 370, 340 360 S 560 350, 680 362 S 820 352, 880 360\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".6\"/><path d=\"M40 392 C 160 382, 260 400, 380 392 S 600 382, 720 394 S 840 384, 880 390\" stroke=\"#A8875A\" stroke-width=\"1.2\" fill=\"none\" opacity=\".35\"/></svg>",
    "texte": "Voulu par Napoléon&nbsp;I<sup style=\"font-size:.6em\">er</sup>, achevé en 1822, il franchit la Garonne sur 17&nbsp;arches. Autant, dit la légende, que de lettres dans «&nbsp;Napoléon Bonaparte&nbsp;»."
   },
-  "legende": "Pendant des siècles, on ne traversait la Garonne qu'en bateau. Il a fallu la volonté de Napoléon Iᵉʳ pour lancer le chantier du pont de pierre, achevé en 1822.\n\nSes 17 arches, dit-on, répondent aux 17 lettres de « Napoléon Bonaparte ». Coïncidence ou clin d'œil, la légende tient toujours, et le pont aussi.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#bordeaux #pontdepierre #patrimoine #garonne",
+  "legende": "Premier pont de pierre de Bordeaux, il a été voulu par Napoléon Iᵉʳ et achevé en 1822, après douze ans de chantier.\n\nSes 17 arches, dit-on, répondent aux 17 lettres de « Napoléon Bonaparte ». Coïncidence ou clin d'œil, la légende tient toujours, et le pont aussi.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#bordeaux #pontdepierre #patrimoine #garonne",
   "alt": "Dessin au trait du pont de pierre et de ses 17 arches au-dessus de la Garonne. Voulu par Napoléon Ier, achevé en 1822.",
-  "source_url": "https://fr.vikidia.org/wiki/Pont_de_pierre_(Bordeaux)"
+  "source_url": "https://fr.vikidia.org/wiki/Pont_de_pierre_(Bordeaux)",
+  "metricool_id": 404446606
  }
 ]
