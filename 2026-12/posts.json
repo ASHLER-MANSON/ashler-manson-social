@@ -11,7 +11,8 @@
   },
   "legende": "Un crédit immobilier accordé en octobre 2026 court en moyenne sur 253 mois, soit un peu plus de 21 ans.\n\nFace au coût des logements, la durée reste le levier des banques pour boucler les plans de financement : près d'un prêt sur deux est désormais accordé sur 25 ans ou plus. Allonger allège la mensualité mais alourdit le coût total. Un équilibre à trouver pour chaque projet.\n\nSource : Observatoire Crédit Logement / CSA, tableau de bord d'octobre 2026.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #immobilier #courtier #bordeaux",
   "alt": "253 mois : c'est la durée moyenne d'un crédit immobilier accordé en octobre 2026, un peu plus de 21 ans. 262 mois pour l'accession dans le neuf, 263 dans l'ancien. Source : Observatoire Crédit Logement / CSA.",
-  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/11/TDB_L_Observatoire_Credit_Logement_CSA_octobre2026.pdf"
+  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/11/TDB_L_Observatoire_Credit_Logement_CSA_octobre2026.pdf",
+  "metricool_id": 439931191
  },
  {
   "slug": "02_le-mot-juste",
@@ -25,7 +26,8 @@
   },
   "legende": "Caution. Derrière ce mot, la garantie que la banque prend sur la plupart des prêts immobiliers aujourd'hui.\n\nUn organisme spécialisé s'engage à rembourser la banque si l'emprunteur ne le fait plus, puis se retourne vers lui. À la différence de l'hypothèque, elle ne passe pas devant le notaire et n'exige aucune mainlevée à la revente. Selon l'organisme, une partie de la somme versée au départ est restituée à la fin du prêt. La banque propose la garantie ; le courtier vérifie qu'elle est la mieux adaptée au projet.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #courtier #bordeaux #immobilier",
   "alt": "Caution, nom féminin : garantie d'un prêt par un organisme qui s'engage à la place de l'emprunteur. Elle remplace l'hypothèque : pas d'acte notarié, pas de mainlevée à la revente.",
-  "source_url": ""
+  "source_url": "",
+  "metricool_id": 439931214
  },
  {
   "slug": "03_l-idee-recue",
@@ -39,7 +41,8 @@
   },
   "legende": "Rembourser son crédit immobilier avant la fin n'est pas toujours synonyme de pénalités.\n\nL'emprunteur peut toujours rembourser par anticipation, en partie ou en totalité. L'indemnité n'existe que si le contrat la prévoit, et la loi la plafonne. Elle disparaît même lorsque le remboursement suit la vente du bien après un changement de lieu de travail de l'emprunteur ou de son conjoint, un décès ou une cessation forcée d'activité. Un point à lire, et à négocier, avant de signer.\n\nSource : Code de la consommation, articles L313-47 à L313-49 (Légifrance, version en vigueur au 24 novembre 2026).\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #courtier #bordeaux #immobilier",
   "alt": "Idée reçue barrée : « Rembourser son prêt en avance, c'est toujours payer des pénalités. » Pas toujours. La loi plafonne l'indemnité et la supprime en cas de vente après mutation professionnelle, décès ou perte d'emploi.",
-  "source_url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222295/"
+  "source_url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222295/",
+  "metricool_id": 439931241
  },
  {
   "slug": "04_joyeux-noel",
@@ -55,7 +58,8 @@
   },
   "legende": "Joyeux Noël.\n\nToute l'équipe d'Ashler & Manson vous souhaite de belles fêtes, chaleureuses et paisibles, entourés de ceux qui comptent.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#noel #bordeaux #fetes #ashlermanson",
   "alt": "Dessin au trait d'un sapin stylisé surmonté d'une étoile dorée. Joyeux Noël. Toute l'équipe d'Ashler & Manson vous souhaite de belles fêtes.",
-  "source_url": ""
+  "source_url": "",
+  "metricool_id": 439931257
  },
  {
   "slug": "05_belle-annee",
@@ -77,6 +81,7 @@
   },
   "legende": "Belle année 2027.\n\nQue cette nouvelle année vous ouvre les portes de vos projets, grands ou petits. Nous serons là, à vos côtés, pour les accompagner.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#bonneannee #2027 #bordeaux #ashlermanson",
   "alt": "2027 en grandes lettres dorées sur fond marine, sous des bulles dessinées au trait. Belle année. Que 2027 vous ouvre les portes de vos projets.",
-  "source_url": ""
+  "source_url": "",
+  "metricool_id": 439931270
  }
 ]
