@@ -11,7 +11,7 @@ from PIL import Image
 
 ROOT = pathlib.Path(__file__).resolve().parent
 F = ROOT / 'node_modules/@fontsource'
-SEAL = (ROOT / 'logo_seal.svg').read_text()
+SEAL = (ROOT / 'logo_seal.svg').read_text(encoding='utf-8')
 MARINE, PIERRE, LAITON, ARDOISE = '#16233B', '#E9E1D2', '#A8875A', '#56607A'
 
 def font(fam, path, w, style='normal'):
@@ -70,11 +70,22 @@ def pierre(p):    # fond pierre. champs : titre, texte, svg (optionnel : dessin 
 <div style="margin-top:{6 if svg else 200}px;font-family:Corm;font-weight:500;font-size:120px;line-height:1">{p['titre']}</div>
 <div class=body style="margin-top:46px">{p['texte']}</div>""")
 
-GABARITS = {'chiffre': chiffre, 'mot': mot, 'idee': idee, 'pierre': pierre}
+def voeux(p):     # fêtes (Noël, nouvel an). champs : fond ('pierre'|'marine'), rub (défaut « Nos vœux »), titre, texte ;
+                  # optionnels : svg (+ svg_hauteur, svg_marge), taille (px du titre, défaut 120), graisse (300|500), couleur (du titre), titre_marge, sous (ligne italique)
+    bg, fg = (PIERRE, MARINE) if p.get('fond', 'pierre') == 'pierre' else (MARINE, PIERRE)
+    svg = p.get('svg') or ''
+    if svg:
+        svg = f'<div style="margin-top:{p.get("svg_marge", 60)}px;width:880px;height:{p.get("svg_hauteur", 400)}px">{svg}</div>'
+    sous = f'<div style="margin-top:28px;font-family:Corm;font-style:italic;font-size:56px;opacity:.85">{p["sous"]}</div>' if p.get('sous') else ''
+    return page(bg, fg, p.get('rub', 'Nos vœux'), f"""{svg}
+<div style="margin-top:{p.get('titre_marge', 6 if svg else 200)}px;font-family:Corm;font-weight:{p.get('graisse', 500)};font-size:{p.get('taille', 120)}px;line-height:.95;color:{p.get('couleur', fg)}">{p['titre']}</div>{sous}
+<div class=body style="margin-top:46px">{p['texte']}</div>""")
+
+GABARITS = {'chiffre': chiffre, 'mot': mot, 'idee': idee, 'pierre': pierre, 'voeux': voeux}
 
 def main(mois):
     d = ROOT.parent / mois
-    posts = json.loads((d / 'posts.json').read_text())
+    posts = json.loads((d / 'posts.json').read_text(encoding='utf-8'))
     with sync_playwright() as pw:
         b = pw.chromium.launch(); pg = b.new_page(viewport={'width': 1080, 'height': 1350})
         for post in posts:

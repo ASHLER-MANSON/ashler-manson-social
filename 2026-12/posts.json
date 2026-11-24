@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "01_le-chiffre",
+  "rubrique": "chiffre",
+  "date": "2026-12-03T12:30:00",
+  "visuel": {
+   "grand": "253&nbsp;mois",
+   "phrase": "c’est la durée moyenne d’un crédit immobilier accordé en octobre&nbsp;2026. Un peu plus de&nbsp;21&nbsp;ans.",
+   "source": "262&nbsp;mois pour l’accession dans le neuf, 263 dans l’ancien.<br>Source&nbsp;: Observatoire Crédit Logement / CSA, octobre&nbsp;2026.",
+   "taille": 240
+  },
+  "legende": "Un crédit immobilier accordé en octobre 2026 court en moyenne sur 253 mois, soit un peu plus de 21 ans.\n\nFace au coût des logements, la durée reste le levier des banques pour boucler les plans de financement : près d'un prêt sur deux est désormais accordé sur 25 ans ou plus. Allonger allège la mensualité mais alourdit le coût total. Un équilibre à trouver pour chaque projet.\n\nSource : Observatoire Crédit Logement / CSA, tableau de bord d'octobre 2026.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #immobilier #courtier #bordeaux",
+  "alt": "253 mois : c'est la durée moyenne d'un crédit immobilier accordé en octobre 2026, un peu plus de 21 ans. 262 mois pour l'accession dans le neuf, 263 dans l'ancien. Source : Observatoire Crédit Logement / CSA.",
+  "source_url": "https://lobservatoire.creditlogement.fr/wp-content/uploads/sites/2/2026/11/TDB_L_Observatoire_Credit_Logement_CSA_octobre2026.pdf"
+ },
+ {
+  "slug": "02_le-mot-juste",
+  "rubrique": "mot",
+  "date": "2026-12-10T12:30:00",
+  "visuel": {
+   "mot": "Caution",
+   "taille": 250,
+   "definition": "nom féminin. Garantie d’un prêt par un organisme qui s’engage à la place de l’emprunteur.",
+   "texte": "Elle remplace l’hypothèque&nbsp;: pas d’acte notarié, pas de mainlevée à la revente. Selon l’organisme, une partie de la somme versée peut être restituée au terme du&nbsp;prêt."
+  },
+  "legende": "Caution. Derrière ce mot, la garantie que la banque prend sur la plupart des prêts immobiliers aujourd'hui.\n\nUn organisme spécialisé s'engage à rembourser la banque si l'emprunteur ne le fait plus, puis se retourne vers lui. À la différence de l'hypothèque, elle ne passe pas devant le notaire et n'exige aucune mainlevée à la revente. Selon l'organisme, une partie de la somme versée au départ est restituée à la fin du prêt. La banque propose la garantie ; le courtier vérifie qu'elle est la mieux adaptée au projet.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #courtier #bordeaux #immobilier",
+  "alt": "Caution, nom féminin : garantie d'un prêt par un organisme qui s'engage à la place de l'emprunteur. Elle remplace l'hypothèque : pas d'acte notarié, pas de mainlevée à la revente.",
+  "source_url": ""
+ },
+ {
+  "slug": "03_l-idee-recue",
+  "rubrique": "idee",
+  "date": "2026-12-17T12:30:00",
+  "visuel": {
+   "citation": "Rembourser son prêt en avance, c’est toujours payer des pénalités.",
+   "verdict": "Pas toujours.",
+   "texte": "La loi plafonne l’indemnité et l’écarte si la vente suit une mutation, un décès ou une perte d’emploi. Et le contrat peut n’en prévoir&nbsp;aucune.",
+   "taille": 140
+  },
+  "legende": "Rembourser son crédit immobilier avant la fin n'est pas toujours synonyme de pénalités.\n\nL'emprunteur peut toujours rembourser par anticipation, en partie ou en totalité. L'indemnité n'existe que si le contrat la prévoit, et la loi la plafonne. Elle disparaît même lorsque le remboursement suit la vente du bien après un changement de lieu de travail de l'emprunteur ou de son conjoint, un décès ou une cessation forcée d'activité. Un point à lire, et à négocier, avant de signer.\n\nSource : Code de la consommation, articles L313-47 à L313-49 (Légifrance, version en vigueur au 24 novembre 2026).\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr). Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier avant l'obtention d'un ou plusieurs prêts d'argent.\n\n#creditimmobilier #courtier #bordeaux #immobilier",
+  "alt": "Idée reçue barrée : « Rembourser son prêt en avance, c'est toujours payer des pénalités. » Pas toujours. La loi plafonne l'indemnité et la supprime en cas de vente après mutation professionnelle, décès ou perte d'emploi.",
+  "source_url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032222295/"
+ },
+ {
+  "slug": "04_joyeux-noel",
+  "rubrique": "voeux",
+  "date": "2026-12-24T12:30:00",
+  "visuel": {
+   "fond": "pierre",
+   "rub": "Nos vœux",
+   "svg": "<svg width=\"880\" height=\"400\" viewBox=\"0 0 880 430\"><path d=\"M440 22 L447 40 L465 47 L447 54 L440 72 L433 54 L415 47 L433 40 Z\" stroke=\"#A8875A\" stroke-width=\"2.5\" fill=\"none\" stroke-linejoin=\"round\"/><path d=\"M440 84 L384 186 L496 186 Z\" stroke=\"#16233B\" stroke-width=\"2.5\" fill=\"none\" stroke-linejoin=\"round\"/><path d=\"M440 148 L344 278 L536 278 Z\" stroke=\"#16233B\" stroke-width=\"2.5\" fill=\"none\" stroke-linejoin=\"round\"/><path d=\"M440 232 L296 380 L584 380 Z\" stroke=\"#16233B\" stroke-width=\"2.5\" fill=\"none\" stroke-linejoin=\"round\"/><path d=\"M440 380 L440 414\" stroke=\"#16233B\" stroke-width=\"3\" fill=\"none\"/><path d=\"M250 414 L630 414\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".7\"/><circle cx=\"200\" cy=\"120\" r=\"4\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/><circle cx=\"680\" cy=\"90\" r=\"3\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/><circle cx=\"730\" cy=\"230\" r=\"5\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/><circle cx=\"150\" cy=\"300\" r=\"3\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/><circle cx=\"640\" cy=\"330\" r=\"3.5\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/><circle cx=\"240\" cy=\"210\" r=\"3\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\"/></svg>",
+   "titre": "Joyeux Noël",
+   "taille": 120,
+   "texte": "Toute l’équipe d’Ashler &amp; Manson vous souhaite de belles fêtes, chaleureuses et paisibles, à Bordeaux comme&nbsp;ailleurs."
+  },
+  "legende": "Joyeux Noël.\n\nToute l'équipe d'Ashler & Manson vous souhaite de belles fêtes, chaleureuses et paisibles, entourés de ceux qui comptent.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#noel #bordeaux #fetes #ashlermanson",
+  "alt": "Dessin au trait d'un sapin stylisé surmonté d'une étoile dorée. Joyeux Noël. Toute l'équipe d'Ashler & Manson vous souhaite de belles fêtes.",
+  "source_url": ""
+ },
+ {
+  "slug": "05_belle-annee",
+  "rubrique": "voeux",
+  "date": "2026-12-31T12:30:00",
+  "visuel": {
+   "fond": "marine",
+   "rub": "Nos vœux",
+   "svg": "<svg width=\"880\" height=\"160\" viewBox=\"0 0 880 160\"><circle cx=\"120\" cy=\"120\" r=\"6\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".55\"/><circle cx=\"165\" cy=\"70\" r=\"10\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".7\"/><circle cx=\"215\" cy=\"118\" r=\"4\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".5\"/><circle cx=\"260\" cy=\"40\" r=\"7\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".6\"/><circle cx=\"330\" cy=\"95\" r=\"14\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".8\"/><circle cx=\"400\" cy=\"30\" r=\"5\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".5\"/><circle cx=\"470\" cy=\"110\" r=\"9\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".7\"/><circle cx=\"540\" cy=\"55\" r=\"18\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".85\"/><circle cx=\"620\" cy=\"125\" r=\"5\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".5\"/><circle cx=\"690\" cy=\"45\" r=\"11\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".7\"/><circle cx=\"760\" cy=\"100\" r=\"7\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".6\"/><circle cx=\"820\" cy=\"30\" r=\"4\" stroke=\"#A8875A\" stroke-width=\"1.5\" fill=\"none\" opacity=\".5\"/></svg>",
+   "svg_hauteur": 160,
+   "svg_marge": 90,
+   "titre": "2027",
+   "taille": 330,
+   "graisse": 300,
+   "couleur": "#A8875A",
+   "titre_marge": 30,
+   "sous": "Belle année.",
+   "texte": "Que 2027 vous ouvre les portes de vos projets. Nous serons là, à vos côtés, pour les&nbsp;accompagner."
+  },
+  "legende": "Belle année 2027.\n\nQue cette nouvelle année vous ouvre les portes de vos projets, grands ou petits. Nous serons là, à vos côtés, pour les accompagner.\n\nAshler & Manson, courtier en opérations de banque et en assurance. ORIAS n° 08041452 (orias.fr).\n\n#bonneannee #2027 #bordeaux #ashlermanson",
+  "alt": "2027 en grandes lettres dorées sur fond marine, sous des bulles dessinées au trait. Belle année. Que 2027 vous ouvre les portes de vos projets.",
+  "source_url": ""
+ }
+]
